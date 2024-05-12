@@ -1,0 +1,25 @@
+.search{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 50px;
+}
+.searchtext{
+    text-align: center;
+    margin-top: 20px;
+}
+.img-search{
+    width: 70px;
+    height: 70px;
+}
+.search-box{
+    display: grid;
+    grid-template-columns: 180px 180px 180px 180px;
+    grid-template-rows: 140px 140px 140px;
+    justify-content: center;
+    gap: 20px;
+}
+.box-search{
+    display: flex;
+align-items: center;
+gap: 10px;
+}

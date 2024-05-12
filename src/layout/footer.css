@@ -1,0 +1,34 @@
+.footer{
+    background-color: rgb(34,34,34);
+    height: 300px;
+    display: flex;
+    gap: 40px;
+    line-height: 20px;
+    justify-content: center;
+    margin-top: 20px;
+    padding: 30px 0;
+}
+.about-text{
+    color: white;
+}
+h3{
+    color: white;
+    padding-bottom: 20px;
+}
+p{
+    color: #555C64;
+    margin-top: 20px;
+}
+.icons{
+    fill: white;
+  margin: 15px 0 0 10px;
+}
+input{
+    height: 37px;
+    margin-top: 10px;
+}
+.foot-btn{
+    background-color: #F63B80;
+    padding: 8px;
+    border: 1px solid #F63B80;
+}

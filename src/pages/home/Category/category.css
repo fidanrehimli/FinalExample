@@ -1,0 +1,42 @@
+.shop{
+    text-align: center;
+    padding: 50px;
+    font-size: 40px;
+}
+.text{
+    color: grey;
+    text-align: center;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 370px 370px 370px;
+    grid-template-rows: 270px 270px;
+    background-size: cover;
+    justify-content: center;
+    margin-top: 50px;
+    gap: 20px;
+  }
+.img-1{
+    background: url("https://preview.colorlib.com/theme/shop/img/c1.jpg");
+    background-repeat: no-repeat;
+    grid-column: 1/2;
+    grid-row: 1/2;
+}
+.img-2{
+    background: url("https://preview.colorlib.com/theme/shop/img/c2.jpg");
+    background-repeat: no-repeat;
+    grid-column: 2/3;
+    grid-row: 1/2;
+}
+.img-3{
+    background: url("https://preview.colorlib.com/theme/shop/img/c4.jpg");
+    background-repeat: no-repeat;
+    grid-column: 3/4;
+    grid-row: 1/3;
+}
+.img-4{
+    background: url("https://preview.colorlib.com/theme/shop/img/c3.jpg.webp");
+    background-repeat: no-repeat;
+    grid-column: 1/3;
+    grid-row: 2/3;
+}
